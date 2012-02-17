@@ -1,3 +1,7 @@
+h1. NOTE
+
+The original author has now converted this to a gem as well, so you should "use it now":https://github.com/joshwand/campfire-bot"
+
 h1. Campfire Bot
 
 This is a bot for 37 Signals' Campfire chat service.
